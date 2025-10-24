@@ -111,7 +111,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamSantosGX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamSantosGX&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=midnight-purple" width="40%"/> <br>
-  <img src="https://streak-stats.demolab.com?user=YamSantosGX&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YamSantosGX&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamSantosGX&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hider_border=true" width="28%"/> <br>
+  <img src="https://streak-stats.demolab.com?user=YamSantosGX&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
